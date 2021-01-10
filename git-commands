@@ -1,0 +1,7 @@
+git init
+git add <files>
+git config --global user.email "saikirannemali@gmail.com"
+git config --global user.name "saikirannemali"
+git branch -M main
+git remote add origin https://github.com/saikirannemali/BigDataProject.git
+git push -u origin main
